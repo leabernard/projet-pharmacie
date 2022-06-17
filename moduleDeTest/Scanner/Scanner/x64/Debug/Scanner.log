@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (C:/Qt/5.14.2/msvc2017_64/bin/qmake)
+  uic Scanner.ui
+  rcc Scanner.qrc
+   RCC: Warning: No resources in 'C:\Users\L├®a bernard\source\repos\moduleDeTest\Scanner\Scanner\Scanner.qrc'.
+  Reader.cpp
+  Scanner.cpp
+  main.cpp
+  moc_Scanner.cpp
+  moc_Reader.cpp
+  qrc_Scanner.cpp
+  Scanner.vcxproj -> C:\Users\Léa bernard\source\repos\moduleDeTest\Scanner\x64\Debug\Scanner.exe
