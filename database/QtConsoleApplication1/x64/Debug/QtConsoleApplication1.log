@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (QtConsoleApplication1.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  Reading Qt configuration (C:/Qt/5.14.2/msvc2017_64/bin/qmake)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (QtConsoleApplication1.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  QtConsoleApplication1.vcxproj -> C:\Users\Léa bernard\source\repos\database\x64\Debug\database.exe
